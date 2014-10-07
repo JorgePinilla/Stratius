@@ -1,0 +1,18 @@
+div p {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+body {
+    background-color: #333333;
+}
+
+.draggable {
+    border: solid 0.2em #666;
+    border-radius: 0.1em;
+    position: absolute;
+}
+
+.header {
+    background-color: #b0c4de;
+}
